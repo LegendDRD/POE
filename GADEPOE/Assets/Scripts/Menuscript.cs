@@ -20,7 +20,7 @@ public class Menuscript : MonoBehaviour {
 
     public void SecenChanger()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
    
 }
